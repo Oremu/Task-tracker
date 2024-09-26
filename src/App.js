@@ -15,7 +15,7 @@ function App() {
     },
     {
       id: 2,
-      text: "Go to Apapa Branch for annual thanksgiving",
+      text: "Go back home",
       day: "Feb 25th at 8:00am",
       reminder: true,
     },
